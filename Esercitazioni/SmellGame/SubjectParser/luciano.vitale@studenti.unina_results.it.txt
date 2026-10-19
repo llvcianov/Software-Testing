@@ -1,0 +1,7 @@
+Score: 0
+
+Refactoring result: true
+Original coverage: 77
+Refactored coverage: 77
+
+Smells:
